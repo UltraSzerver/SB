@@ -1,1 +1,0 @@
-execute as @a[scores={SBTrigger=1..}] run function ultraszerver:sb/swit1
